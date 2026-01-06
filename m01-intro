@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Module 01 | Introduction
-has_children: true
-nav_order: 2
+parent: Accueil
+nav_order: 1
 ---
 # Module 01 | Introduction
 
