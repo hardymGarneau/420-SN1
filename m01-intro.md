@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Module 01 | Introduction
-parent: AccueilX
+parent: Accueil
 nav_order: 1
 ---
 # Module 01 | Introduction
