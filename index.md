@@ -1,6 +1,16 @@
-# 420-SN1
-
-## Module 01 | Introduction
+---
+layout: default
+title: Accueil
+nav_order: 1
+---
+# Bienvenue au cours 420-SN1
+---
+layout: default
+title: Module 01 | Introduction
+has_children: true
+nav_order: 2
+---
+# Module 01 | Introduction
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe src="https://livecegepfxgqc-my.sharepoint.com/personal/mhardy_cegepgarneau_ca/_layouts/15/Doc.aspx?sourcedoc={2aac0430-659b-4579-8e44-6a5d61139931}&action=embedview&wdAr=1.7777777777777777" 
