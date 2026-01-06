@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AccueilX
+title: Accueil
 nav_order: 1
 has_children: true
 ---
