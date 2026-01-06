@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
+title: "Cours 420-SN1"
+description: "Matériel pédagogique pour l'introduction à la programmation en Science de la nature."
+nav_enabled: true
